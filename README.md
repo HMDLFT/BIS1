@@ -1,2 +1,3 @@
 # BIS1
-Business Information Systems
+University: Politecnico di Milano
+Course Name" Business Information Systems
